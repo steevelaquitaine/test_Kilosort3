@@ -42,3 +42,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Steeve-added
+npy-matlab
+set_paths.m
